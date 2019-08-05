@@ -4,3 +4,6 @@
 
 - ReLU: Rectified Linear Unit
 
+- Dense network: all neurons from the the next layer receives the input from all the neurons from the previous layer
+
+- 
