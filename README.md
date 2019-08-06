@@ -1,3 +1,5 @@
+<!-- Started 05 Aug 2019 -->
+
 # [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?) @ Coursera
 
 ### Feel free to read. I hope it helps you on YOUR OWN work.
@@ -26,10 +28,7 @@
 - [MIT Press - Deep Learning Book](http://www.deeplearningbook.org/)
 - [Deep Learning Book](http://deeplearningbook.com.br/) (pt-BR)
 - 
+- 
+- 
+- 
 
-<!-- ## Timelapse
-
-|          | dd | mm  | yyyy  |
-|:---------|:--:|:---:|:----:|
-| Started  | 05 | Aug | 2019 |
-| Finished | ?? | ??  | 20?? | -->
