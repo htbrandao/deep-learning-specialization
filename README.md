@@ -6,19 +6,15 @@
 
 ### Despite the MIT License, remember Coursera's [Honor Code](https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code) and [Code of Conduct](https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct)!
 
-## Content:
+## Content
 
 - Course 1: Neural Networks and Deep Learning
-
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-
 - Course 3: Structuring Machine Learning Projects
-
 - Course 4: Convolutional Neural Networks
-
 - Course 5: Sequence Models
 
-## Bonus readings:
+## Bonus readings
 - [Neural networks made easy](https://techcrunch.com/2017/04/13/neural-networks-made-easy/)
 - NVIDIA - Deep Learning in a Nutshell:
 	- Part 1 - [Core Concepts](https://devblogs.nvidia.com/deep-learning-nutshell-core-concepts/)
@@ -27,7 +23,7 @@
 	- Part 4 - [Reinforcement Learning](https://devblogs.nvidia.com/deep-learning-nutshell-reinforcement-learning/)
 - [MIT Press - Deep Learning Book](http://www.deeplearningbook.org/)
 - [Deep Learning Book](http://deeplearningbook.com.br/) (pt-BR)
-- 
+- [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/#introduction)
 - 
 - 
 - 
