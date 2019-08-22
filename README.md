@@ -15,6 +15,7 @@
 - Course 5: Sequence Models
 
 ## Bonus readings
+- [Creating Virtual Environments](https://docs.python.org/3/tutorial/venv.html)
 - [Neural networks made easy](https://techcrunch.com/2017/04/13/neural-networks-made-easy/)
 - NVIDIA - Deep Learning in a Nutshell:
 	- Part 1 - [Core Concepts](https://devblogs.nvidia.com/deep-learning-nutshell-core-concepts/)
