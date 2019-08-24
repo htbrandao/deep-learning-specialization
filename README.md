@@ -1,5 +1,3 @@
-<!-- Started 05 Aug 2019 -->
-
 # [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?) @ Coursera
 
 ### Feel free to read. I hope it helps you on YOUR OWN work.
