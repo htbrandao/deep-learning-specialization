@@ -1,4 +1,4 @@
-import os
+#!/usr/bin/env python3
 
 if __name__ == '__main__':
-    print('deep learning!')
+    print('say ReLU to ma little neuron!')
