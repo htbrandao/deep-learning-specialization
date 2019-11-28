@@ -1,4 +1,4 @@
 #!/usr/bin/env python3
 
 if __name__ == '__main__':
-    print('say ReLU to ma little neuron!')
+    print('say \"ReLU\" to ma little *neuron*!')
