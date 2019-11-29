@@ -1,5 +1,5 @@
 .vscode/
-./idea/
+.idea/
 
 deepLSpec/*/.ipynb_checkpoints
 deepLSpec/*/*/.ipynb_checkpoints
