@@ -1,5 +1,8 @@
 # [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?) @ Coursera
 
+## Progress:
+	Ongoing course 1
+
 ### Feel free to read. I hope it helps you on YOUR OWN work.
 
 ### Despite the MIT License, remember Coursera's [Honor Code](https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code) and [Code of Conduct](https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct)!
