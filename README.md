@@ -1,7 +1,8 @@
 # [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?) @ Coursera
 
 ## Progress:
-	Ongoing course 1
+
+    Ongoing course 1
 
 ### Feel free to read. I hope it helps you on YOUR OWN work.
 
@@ -29,5 +30,6 @@
 - 
 
 
+### [!] Disclaimer: I don't know what I did wrong, but the images on the notebooks are not appearing on gitlab
 
 <!--##### Enjoy! &#8718;-->
