@@ -3,3 +3,11 @@
 
 deepLSpec/*/.ipynb_checkpoints
 deepLSpec/*/*/.ipynb_checkpoints
+
+*/__pycache__
+*/*/__pycache__
+*/*/*/__pycache__
+*/*/*/*/__pycache__
+*/*/*/*/*/__pycache__
+*/*/*/*/*/*/__pycache__
+*/*/*/*/*/*/*/__pycache__
