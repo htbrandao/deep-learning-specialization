@@ -30,6 +30,6 @@
 - 
 
 
-### [!] Disclaimer: I don't know what I did wrong, but the images on the notebooks are not appearing on gitlab
+### [!] Disclaimer: I don't know what I did wrong, but the images in the notebooks are not showing...
 
 <!--##### Enjoy! &#8718;-->
