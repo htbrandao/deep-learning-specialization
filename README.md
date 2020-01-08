@@ -2,7 +2,7 @@
 
 ## Progress:
 
-    Ongoing course 1
+    Course 1: Week 3
 
 ### Feel free to read. I hope it helps you on YOUR OWN work.
 
@@ -29,7 +29,4 @@
 - [MIT Press - Deep Learning Book](http://www.deeplearningbook.org/)
 - [Deep Learning Book](http://deeplearningbook.com.br/) (pt-BR) -->
 
-
-### [!] Disclaimer: I don't know what I did wrong, but the images in the notebooks are not showing...
-
-<!--##### Enjoy! &#8718;-->
+##### Enjoy! &#8718;
