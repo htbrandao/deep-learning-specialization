@@ -2,7 +2,7 @@
 
 ## Progress:
 
-    Course 1: Week 4
+    Course 2: Week 1
 
 ### Feel free to read. I hope it helps you on YOUR OWN work.
 
