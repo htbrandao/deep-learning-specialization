@@ -20,11 +20,11 @@
 - [Creating Virtual Environments](https://docs.python.org/3/tutorial/venv.html)
 - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/#introduction)
 - [Simple explanation about back propagation](http://cs231n.github.io/optimization-2/)
-<!-- - [Neural networks made easy](https://techcrunch.com/2017/04/13/neural-networks-made-easy/)
+- [Neural networks made easy](https://techcrunch.com/2017/04/13/neural-networks-made-easy/)
 - NVIDIA - Deep Learning in a Nutshell:
 	- Part 1 - [Core Concepts](https://devblogs.nvidia.com/deep-learning-nutshell-core-concepts/)
 	- Part 2 - [History and Training](https://devblogs.nvidia.com/deep-learning-nutshell-history-training/)
-	- Part 3 - [Sequence Learning](https://devblogs.nvidia.com/deep-learning-nutshell-sequence-learning/)
+<!-- - Part 3 - [Sequence Learning](https://devblogs.nvidia.com/deep-learning-nutshell-sequence-learning/)
 	- Part 4 - [Reinforcement Learning](https://devblogs.nvidia.com/deep-learning-nutshell-reinforcement-learning/)
 - [MIT Press - Deep Learning Book](http://www.deeplearningbook.org/)
 - [Deep Learning Book](http://deeplearningbook.com.br/) (pt-BR) -->
