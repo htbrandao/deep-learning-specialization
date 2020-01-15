@@ -24,9 +24,8 @@
 - NVIDIA - Deep Learning in a Nutshell:
 	- Part 1 - [Core Concepts](https://devblogs.nvidia.com/deep-learning-nutshell-core-concepts/)
 	- Part 2 - [History and Training](https://devblogs.nvidia.com/deep-learning-nutshell-history-training/)
-<!-- - Part 3 - [Sequence Learning](https://devblogs.nvidia.com/deep-learning-nutshell-sequence-learning/)
+- Part 3 - [Sequence Learning](https://devblogs.nvidia.com/deep-learning-nutshell-sequence-learning/)
 	- Part 4 - [Reinforcement Learning](https://devblogs.nvidia.com/deep-learning-nutshell-reinforcement-learning/)
 - [MIT Press - Deep Learning Book](http://www.deeplearningbook.org/)
-- [Deep Learning Book](http://deeplearningbook.com.br/) (pt-BR) -->
 
 ##### Enjoy! &#8718;
