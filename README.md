@@ -27,5 +27,6 @@
 - Part 3 - [Sequence Learning](https://devblogs.nvidia.com/deep-learning-nutshell-sequence-learning/)
 	- Part 4 - [Reinforcement Learning](https://devblogs.nvidia.com/deep-learning-nutshell-reinforcement-learning/)
 - [MIT Press - Deep Learning Book](http://www.deeplearningbook.org/)
+- [How to structure a pytorch ml project with google colab and tensorboard](https://hackernoon.com/how-to-structure-a-pytorch-ml-project-with-google-colab-and-tensorboard-7ram3agi)
 
 ##### Enjoy! &#8718;
