@@ -28,5 +28,12 @@
 	- Part 4 - [Reinforcement Learning](https://devblogs.nvidia.com/deep-learning-nutshell-reinforcement-learning/)
 - [MIT Press - Deep Learning Book](http://www.deeplearningbook.org/)
 - [How to structure a pytorch ml project with google colab and tensorboard](https://hackernoon.com/how-to-structure-a-pytorch-ml-project-with-google-colab-and-tensorboard-7ram3agi)
+- [CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/cs231n/cs231n.github.io):
+	- [neural networks 1](https://github.com/cs231n/cs231n.github.io/blob/master/neural-networks-1.md)
+	- [neural networks 2](https://github.com/cs231n/cs231n.github.io/blob/master/neural-networks-2.md)
+	- [neural networks 3](https://github.com/cs231n/cs231n.github.io/blob/master/neural-networks-3.md)
+	- [optimization 1](https://github.com/cs231n/cs231n.github.io/blob/master/optimization-1.md)
+	- [optimization 2](https://github.com/cs231n/cs231n.github.io/blob/master/optimization-2.md)
+
 
 ##### Enjoy! &#8718;
