@@ -19,7 +19,11 @@
 ## Bonus readings
 - [Creating Virtual Environments](https://docs.python.org/3/tutorial/venv.html)
 - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/#introduction)
+- [Calculate mini-batch memory impact](https://datascience.stackexchange.com/questions/12649/how-to-calculate-the-mini-batch-memory-impact-when-training-deep-learning-models)
+- [Kaggle: Data Leakage](https://www.kaggle.com/alexisbcook/data-leakage)
 - [Simple explanation about back propagation](http://cs231n.github.io/optimization-2/)
+- [Memory usage and computational considerations](http://imatge-upc.github.io/telecombcn-2016-dlcv/slides/D2L1-memory.pdf)
+- Youtube: [Memory Usage and Computational Considerations (by Kevin Mc Guinness)](https://www.youtube.com/watch?v=Hqtg7fznlnM)
 - [Neural networks made easy](https://techcrunch.com/2017/04/13/neural-networks-made-easy/)
 - NVIDIA - Deep Learning in a Nutshell:
 	- Part 1 - [Core Concepts](https://devblogs.nvidia.com/deep-learning-nutshell-core-concepts/)
@@ -34,6 +38,6 @@
 	- [neural networks 3](https://github.com/cs231n/cs231n.github.io/blob/master/neural-networks-3.md)
 	- [optimization 1](https://github.com/cs231n/cs231n.github.io/blob/master/optimization-1.md)
 	- [optimization 2](https://github.com/cs231n/cs231n.github.io/blob/master/optimization-2.md)
-
+- [RANDOMSEARCH FORHYPER-PARAMETEROPTIMIZATION](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
 
 ##### Enjoy! &#8718;
