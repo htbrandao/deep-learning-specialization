@@ -38,6 +38,7 @@
 	- [neural networks 3](https://github.com/cs231n/cs231n.github.io/blob/master/neural-networks-3.md)
 	- [optimization 1](https://github.com/cs231n/cs231n.github.io/blob/master/optimization-1.md)
 	- [optimization 2](https://github.com/cs231n/cs231n.github.io/blob/master/optimization-2.md)
-- [RANDOMSEARCH FORHYPER-PARAMETEROPTIMIZATION](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
+- [Random search for hyperparameter optimization](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
+- [Multilabel classification](https://mc.ai/how-to-perform-multilabel-classification-using-deep-learning/)
 
 ##### Enjoy! &#8718;
