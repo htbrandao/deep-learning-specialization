@@ -1,6 +1,6 @@
 # [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?) @ Coursera
 
-## Progress:
+# # Progress:
 
     Course 4: Week 3
 
