@@ -31,6 +31,7 @@
 - Part 3 - [Sequence Learning](https://devblogs.nvidia.com/deep-learning-nutshell-sequence-learning/)
 	- Part 4 - [Reinforcement Learning](https://devblogs.nvidia.com/deep-learning-nutshell-reinforcement-learning/)
 - [MIT Press - Deep Learning Book](http://www.deeplearningbook.org/)
+- [Convolutions and Backpropagations](https://medium.com/@pavisj/convolutions-and-backpropagations-46026a8f5d2c)
 - [How to structure a pytorch ml project with google colab and tensorboard](https://hackernoon.com/how-to-structure-a-pytorch-ml-project-with-google-colab-and-tensorboard-7ram3agi)
 - [CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/cs231n/cs231n.github.io):
 	- [neural networks 1](https://github.com/cs231n/cs231n.github.io/blob/master/neural-networks-1.md)
