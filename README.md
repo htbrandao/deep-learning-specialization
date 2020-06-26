@@ -41,5 +41,9 @@
 	- [optimization 2](https://github.com/cs231n/cs231n.github.io/blob/master/optimization-2.md)
 - [Random search for hyperparameter optimization](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
 - [Multilabel classification](https://mc.ai/how-to-perform-multilabel-classification-using-deep-learning/)
+- [Tensorflow - Word embeddings](https://www.tensorflow.org/tutorials/text/word_embeddings)
+- [Efficient Estimation of Word Representations inVector Space](https://arxiv.org/pdf/1301.3781.pdf)
+- [The Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/)
+- [A Beginner's Guide to Word2Vec and Neural Word Embeddings](https://pathmind.com/wiki/word2vec)
 
 ##### Enjoy! &#8718;
