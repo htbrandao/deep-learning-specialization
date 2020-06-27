@@ -2,7 +2,7 @@
 
 # # Progress:
 
-    Course 5: Week 1
+    Last course: Last week
 
 ### Feel free to read. I hope it helps you on YOUR OWN work.
 
